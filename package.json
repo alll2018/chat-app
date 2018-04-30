@@ -10,7 +10,9 @@
   "engines": {
     "node": "9.8.0"
   },
-
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
